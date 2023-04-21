@@ -1,5 +1,5 @@
 {
-    "name": "sidz/phpstan-rules",
+    "name": "sanhe/phpstan-rules",
     "type": "phpstan-extension",
     "description": "Set of PHPStan rules",
     "license": "MIT",
@@ -14,10 +14,10 @@
             "homepage": "https://github.com/sidz"
         }
     ],
-    "homepage": "https://github.com/sidz/phpstan-rules",
+    "homepage": "https://github.com/sanhe/phpstan-rules",
     "support": {
-        "issues": "https://github.com/sidz/phpstan-rules/issues",
-        "source": "https://github.com/sidz/phpstan-rules"
+        "issues": "https://github.com/sanhe/phpstan-rules/issues",
+        "source": "https://github.com/sanhe/phpstan-rules"
     },
     "require": {
         "php": "^7.2 || ^8.0, <8.3",
